@@ -1,0 +1,16 @@
+package main;
+
+public class Spawn {
+	
+	private Handler handler;
+	private HUD hud;
+	
+	public Spawn(Handler handler, HUD hud){
+		this.handler = handler;
+	}
+	
+	public void tick(){
+		
+	}
+
+}
